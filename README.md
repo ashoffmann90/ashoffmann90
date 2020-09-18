@@ -22,7 +22,7 @@ Second, I started a business that stalled when I got to the web design portion. 
 • Human Rights First<br>
 Description: Tracks and displays incidents of police use of force on an interactive map and timeline of incidents.
   
-• Deployed Product: https://a.humanrightsfirst.dev/map
+• Deployed Product: https://a.humanrightsfirst.dev/map<br>
 • Front End: https://github.com/Lambda-School-Labs/Labs25-Human_Rights_First-TeamA-FE<br>
 • Back End: https://github.com/Lambda-School-Labs/Labs25-Human_Rights_First-TeamA-FE
 
