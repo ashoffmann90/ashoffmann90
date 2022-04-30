@@ -1,6 +1,6 @@
 ### Hey folx! 👋
 
-• 😄 Pronouns: He/Him
+• 😄 Pronouns: He/Him or They/Them
 
 After some years as a musician and a massage therapist I've found my way into programming, and what a crazy ride it has been.<br>
 I've got a beautiful range of experiences that lead me here:<br>
