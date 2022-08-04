@@ -22,8 +22,8 @@ Third, I am a people person through and through and really wanted to be collabor
 
 :mortar_board: <strong>I'm currently learning:</strong><br>
 • Computer Science (I'll always be learning more about this)<br>
-• Refining React Native
-• Refining TypeScript
+• Refining React Native<br>
+• Refining TypeScript<br>
 
 ⚡ <strong>Fun facts:</strong><br>
 • I sing, and play piano, guitar, and am learning the charango (it's ike a ukulele, with 10 strings from South America).<br>
