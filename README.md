@@ -26,7 +26,7 @@ Third, I am a people person through and through and really wanted to be collabor
 • Refining TypeScript<br>
 
 ⚡ <strong>Fun facts:</strong><br>
-• I sing, and play piano, guitar, and am learning the charango (it's ike a ukulele, with 10 strings from South America).<br>
+• I sing, and play piano, guitar, and am learning the charango (it's like a ukulele, with 10 strings from South America).<br>
 • During COVID-19 quaratine, I went from 1 house plant to 54. All in my bedroom. They are still alive!<br>
 • One of my biggest goals in life is to become a Triple Crowner (someone that has hiked the Appalachian Trail, Pacific Crest Trail, and the Continental Divide Trail).<br>
 
